@@ -1,1 +1,1 @@
-# Mono-Website
+# Synthesis-Website
